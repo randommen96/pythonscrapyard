@@ -8,3 +8,4 @@ Current status:
 - tictactoe.py | Milestone exercise, Finished
 - webscrapersimple.py | Exercise, Finished
 - youtube.py | Tryout for myself, work in progress
+- remove_duplicates.py | Needed to remove some scrap data, Finished
